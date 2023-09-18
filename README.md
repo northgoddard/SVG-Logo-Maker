@@ -13,11 +13,12 @@ This application is a command-line app that uses user input to take in 3 letters
 
 
 ## Images
-<img width="720" alt="Screenshot" src="" >
+<img width="720" alt="Screenshot" src="Screenshot 1.png" >
+<img width="720" alt="Screenshot" src="Screenshot 2.png" >
 
 ## Link 
 
-
+https://drive.google.com/file/d/18oZArRmzrBNLuV2SOlJ4RmmDcWSxBL57/view
 
 ## Creator
 
