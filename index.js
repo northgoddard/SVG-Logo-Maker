@@ -24,7 +24,7 @@ function init() {
                 choices: ['triangle', 'square', 'circle']
             },
             {
-                name: 'color',
+                name: 'shapeColor',
                 type: 'input',
                 message: 'Enter shape color',
             }
